@@ -17,3 +17,10 @@ This is a simulation. No physical DNA is synthesised.
 - dnavault.py: encoder, channel simulator, decoder
 - app.py: Streamlit web interface
 - experiments.py: reproducible experiments (results in results.md)
+
+## Live Demo
+Try it in your browser, no installation needed:
+
+[Open DNA Vault](https://dna-vault-fdf96ip4f3ovggapm7wfdq.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dna-vault-fdf96ip4f3ovggapm7wfdq.streamlit.app/)
